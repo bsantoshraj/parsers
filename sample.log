@@ -1,0 +1,195 @@
+{
+  "data": {
+    "additionalDetails": {
+      "X-Real-Port": 63977
+    },
+    "availabilityDomain": "AD2",
+    "compartmentId": "ocid1.compartment.oc1..aaaaaaaagsx7t4jz33q2ji63chrhqy2gbj6ff62fq6gkyyo4uu4eycuenjaa",
+    "compartmentName": "network",
+    "definedTags": {
+      "Oracle-Tags": {
+        "CreatedBy": "default/matthew.ho@newfold.com",
+        "CreatedOn": "2025-05-01T00:26:44.541Z"
+      }
+    },
+    "eventGroupingId": "b436b38bb0cb7fcbbca4bf733e5a6832/A51A5FC3BD232D618EE72B18C6CC43F5",
+    "eventName": "CreateSecurityList",
+    "freeformTags": {},
+    "identity": {
+      "authType": "natv",
+      "callerId": "ocid1.instance.oc1.iad.anuwcljtnpno6ticjhyekujuieb653k5tngf4i2vyjzpuhar6b4zb46cygua",
+      "callerName": null,
+      "consoleSessionId": null,
+      "credentials": "ST$eyJraWQiOiJhc3dfaWFkXzE3MTU2NDgwNzIzNzciLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJvY2lkMS5pbnN0YW5jZS5vYzEuaWFkLmFudXdjbGp0bnBubzZ0aWNqaHlla3VqdWllYjY1M2s1dG5nZjRpMnZ5anpwdWhhcjZiNHpiNDZjeWd1YSIsIm9wYy1jZXJ0dHlwZSI6Imluc3RhbmNlIiwiaXNzIjoiYXV0aFNlcnZpY2Uub3JhY2xlLmNvbSIsImZwcmludCI6IjExOkFEOjU5OkQ4OjRDOkI2OkE2OkNBOjUwOjg3OjVFOkI1OkY1OkFCOkY4OkEzOkE3OjI5Ojg4OjVGIiwicHR5cGUiOiJpbnN0YW5jZSIsImF1ZCI6Im9jaSIsIm9wYy10YWciOiJWMyxvY2lkMS50ZW5hbmN5Lm9jMS4uYWFhYWFhYWFxbnBjcGZxZm1yZjZkdzVnY2V3N3lxcGlydmFydWVpcmoybXY0anpuNXZramdvZWpzeG1hLEFBQUFBUUFBQUFBQUFBQ0IsQUFBQUFRQUFBQUFBQUFDRyIsInR0eXBlIjoieDUwOSIsIm9wYy1pbnN0YW5jZSI6Im9jaWQxLmluc3RhbmNlLm9jMS5pYWQuYW51d2NsanRucG5vNnRpY2poeWVrdWp1aWViNjUzazV0bmdmNGkydnlqenB1aGFyNmI0emI0NmN5Z3VhIiwiZXhwIjoxNzQ2MDY1ODcxLCJvcGMtY29tcGFydG1lbnQiOiJvY2lkMS5jb21wYXJ0bWVudC5vYzEuLmFhYWFhYWFhNmp2a3VkenFtYzZldXcyYmJmdXd4dmJvbDc3cXFxdTJtcHhyYmV6NGZpZ3EyeGFqcXkzYSIsImlhdCI6MTc0NjA1OTIwNCwianRpIjoiMmMyZTRiMjktNjU3Mi00MjgxLWJjZDQtOWUwZTM1NGI1OTQxIiwidGVuYW50Ijoib2NpZDEudGVuYW5jeS5vYzEuLmFhYWFhYWFhcW5wY3BmcWZtcmY2ZHc1Z2Nldzd5cXBpcnZhcnVlaXJqMm12NGp6bjV2a2pnb2Vqc3htYSIsImp3ayI6IntcImtpZFwiOlwiMTE6YWQ6NTk6ZDg6NGM6YjY6YTY6Y2E6NTA6ODc6NWU6YjU6ZjU6YWI6Zjg6YTM6YTc6Mjk6ODg6NWZcIixcIm5cIjpcIjBpSl9QdFBTd3hlTTFwZ1lmc0xaWWljVzByU0tVeFl5WmpacUdJNWxVLXV1UXRnZ09WaGpTVjR5UC1EYmJvQ1phdEtBTTBUa0ZQTGVDaVU4eEdkcDVkbWRyLVpnTG8wOXotVWhNRmVKelpmYS1VcC1lenJyMTAtS2RYX3dSUWszYXdVX3RrSjNMSk1MTzhmM1RKQlJEN1dWaTh1Vk1ST1NaSW13cDJPQVJCWHRuZ0toSWc1dm9aQ2l5VnQ0eFhua052emRuVzR4djRhVk03Q2ZWSUZ4YnNsSkdINnpuaWcyWTJLMTJOa3hnR1I2OU9QT1Y5ZDVXeHNCVm12eUlBa2tFT2o1RUZscUZ4QkRhdk1ONWUtQXJxamJjTzJLVk51UC1SaTlqVVpsSUttTW9KdVdmU3I2OElWSkhJQjZrZTFMVG45MmtuZUdaLVNKanlLVklEVHNPUVwiLFwiZVwiOlwiQVFBQlwiLFwia3R5XCI6XCJSU0FcIixcImFsZ1wiOlwiUlMyNTZcIixcInVzZVwiOlwic2lnXCJ9Iiwib3BjLXRlbmFudCI6Im9jaWQxLnRlbmFuY3kub2MxLi5hYWFhYWFhYXFucGNwZnFmbXJmNmR3NWdjZXc3eXFwaXJ2YXJ1ZWlyajJtdjRqem41dmtqZ29lanN4bWEifQ.d7ER0Sw_9l9Fi9jdqdxNEmI7HsyhW5__VlkwSZclbLyFsYzSR5fimdfNnCxFZH9628KCjO_ek26xhUdbDuacRWXUgs5bjaikaNM7xuNI5dPaNJFwa0VdXL5wFBgYgMAW_axWld4GUECsqRP2Al8IYbt-APN_ipRGAGkXzLzQ_W9YD6QDQTiSPXSQ6FTi8yzoApQ5qEnWIugXngZLHPR5PHsh0n8xU07QNAbM6DohQK9hZjuXaVMlFktBJBajODe1bC9eNkt5e2Ek9SR_rgmUHeZBdFs5mdLHjl0lqxD1nVqqocrVSxh-qGHD6y7f0cs93l0tDDhJQ8ta1MykxSAJ5w",
+      "ipAddress": "152.70.201.32",
+      "principalId": "ocid1.user.oc1..aaaaaaaayfd23rc4ssp6umt6engzyxof6zinkh3iiv2q3nonbmzrkiy2p5jq",
+      "principalName": "Matthew Ho",
+      "tenantId": "ocid1.tenancy.oc1..aaaaaaaa4cnd5wwl3roax75fngbxro5v2su77cksaal3mwnywfmr56tmvg2a",
+      "userAgent": "Oracle-GoSDK/65.89.1 (go/go1.21.13; linux/arm64; terraform/2.34.0; terraform-cli/1.5.7) ORMTerraformer/6.35.0"
+    },
+    "message": "observability-k8s-security-list CreateSecurityList succeeded",
+    "request": {
+      "action": "POST",
+      "headers": {
+        "Accept": [
+          "*/*"
+        ],
+        "Accept-Encoding": [
+          "gzip"
+        ],
+        "Authorization": [
+          "Signature version=\"1\",headers=\"date (request-target) host opc-obo-token content-length content-type x-content-sha256\",keyId=\"ST$eyJraWQiOiJhc3dfaWFkXzE3MTU2NDgwNzIzNzciLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJvY2lkMS5pbnN0YW5jZS5vYzEuaWFkLmFudXdjbGp0bnBubzZ0aWNqaHlla3VqdWllYjY1M2s1dG5nZjRpMnZ5anpwdWhhcjZiNHpiNDZjeWd1YSIsIm9wYy1jZXJ0dHlwZSI6Imluc3RhbmNlIiwiaXNzIjoiYXV0aFNlcnZpY2Uub3JhY2xlLmNvbSIsImZwcmludCI6IjExOkFEOjU5OkQ4OjRDOkI2OkE2OkNBOjUwOjg3OjVFOkI1OkY1OkFCOkY4OkEzOkE3OjI5Ojg4OjVGIiwicHR5cGUiOiJpbnN0YW5jZSIsImF1ZCI6Im9jaSIsIm9wYy10YWciOiJWMyxvY2lkMS50ZW5hbmN5Lm9jMS4uYWFhYWFhYWFxbnBjcGZxZm1yZjZkdzVnY2V3N3lxcGlydmFydWVpcmoybXY0anpuNXZramdvZWpzeG1hLEFBQUFBUUFBQUFBQUFBQ0IsQUFBQUFRQUFBQUFBQUFDRyIsInR0eXBlIjoieDUwOSIsIm9wYy1pbnN0YW5jZSI6Im9jaWQxLmluc3RhbmNlLm9jMS5pYWQuYW51d2NsanRucG5vNnRpY2poeWVrdWp1aWViNjUzazV0bmdmNGkydnlqenB1aGFyNmI0emI0NmN5Z3VhIiwiZXhwIjoxNzQ2MDY1ODcxLCJvcGMtY29tcGFydG1lbnQiOiJvY2lkMS5jb21wYXJ0bWVudC5vYzEuLmFhYWFhYWFhNmp2a3VkenFtYzZldXcyYmJmdXd4dmJvbDc3cXFxdTJtcHhyYmV6NGZpZ3EyeGFqcXkzYSIsImlhdCI6MTc0NjA1OTIwNCwianRpIjoiMmMyZTRiMjktNjU3Mi00MjgxLWJjZDQtOWUwZTM1NGI1OTQxIiwidGVuYW50Ijoib2NpZDEudGVuYW5jeS5vYzEuLmFhYWFhYWFhcW5wY3BmcWZtcmY2ZHc1Z2Nldzd5cXBpcnZhcnVlaXJqMm12NGp6bjV2a2pnb2Vqc3htYSIsImp3ayI6IntcImtpZFwiOlwiMTE6YWQ6NTk6ZDg6NGM6YjY6YTY6Y2E6NTA6ODc6NWU6YjU6ZjU6YWI6Zjg6YTM6YTc6Mjk6ODg6NWZcIixcIm5cIjpcIjBpSl9QdFBTd3hlTTFwZ1lmc0xaWWljVzByU0tVeFl5WmpacUdJNWxVLXV1UXRnZ09WaGpTVjR5UC1EYmJvQ1phdEtBTTBUa0ZQTGVDaVU4eEdkcDVkbWRyLVpnTG8wOXotVWhNRmVKelpmYS1VcC1lenJyMTAtS2RYX3dSUWszYXdVX3RrSjNMSk1MTzhmM1RKQlJEN1dWaTh1Vk1ST1NaSW13cDJPQVJCWHRuZ0toSWc1dm9aQ2l5VnQ0eFhua052emRuVzR4djRhVk03Q2ZWSUZ4YnNsSkdINnpuaWcyWTJLMTJOa3hnR1I2OU9QT1Y5ZDVXeHNCVm12eUlBa2tFT2o1RUZscUZ4QkRhdk1ONWUtQXJxamJjTzJLVk51UC1SaTlqVVpsSUttTW9KdVdmU3I2OElWSkhJQjZrZTFMVG45MmtuZUdaLVNKanlLVklEVHNPUVwiLFwiZVwiOlwiQVFBQlwiLFwia3R5XCI6XCJSU0FcIixcImFsZ1wiOlwiUlMyNTZcIixcInVzZVwiOlwic2lnXCJ9Iiwib3BjLXRlbmFudCI6Im9jaWQxLnRlbmFuY3kub2MxLi5hYWFhYWFhYXFucGNwZnFmbXJmNmR3NWdjZXc3eXFwaXJ2YXJ1ZWlyajJtdjRqem41dmtqZ29lanN4bWEifQ.d7ER0Sw_9l9Fi9jdqdxNEmI7HsyhW5__VlkwSZclbLyFsYzSR5fimdfNnCxFZH9628KCjO_ek26xhUdbDuacRWXUgs5bjaikaNM7xuNI5dPaNJFwa0VdXL5wFBgYgMAW_axWld4GUECsqRP2Al8IYbt-APN_ipRGAGkXzLzQ_W9YD6QDQTiSPXSQ6FTi8yzoApQ5qEnWIugXngZLHPR5PHsh0n8xU07QNAbM6DohQK9hZjuXaVMlFktBJBajODe1bC9eNkt5e2Ek9SR_rgmUHeZBdFs5mdLHjl0lqxD1nVqqocrVSxh-qGHD6y7f0cs93l0tDDhJQ8ta1MykxSAJ5w\",algorithm=\"rsa-sha256\",signature=\"*****\""
+        ],
+        "Content-Length": [
+          "912"
+        ],
+        "Content-Type": [
+          "application/json"
+        ],
+        "Date": [
+          "Thu, 01 May 2025 00:26:44 GMT"
+        ],
+        "Opc-Client-Info": [
+          "Oracle-GoSDK/65.89.1"
+        ],
+        "Opc-Client-Retries": [
+          "true"
+        ],
+        "Opc-Obo-Token": [
+          "eyJraWQiOiJhc3dfaWFkXzE3MTU2NDgwNzIzNzciLCJhbGciOiJSUzI1NiJ9.eyJ0Z3QiOiJhbGxfc3ZjIiwic3ViIjoib2NpZDEudXNlci5vYzEuLmFhYWFhYWFheWZkMjNyYzRzc3A2dW10NmVuZ3p5eG9mNnppbmtoM2lpdjJxM25vbmJtenJraXkycDVqcSIsImNoYWluIjoiIiwidGd0X25hbWUiOiJhbGxfc3ZjIiwiZGdycHMiOiJbXCJvY2lkMS5keW5hbWljZ3JvdXAub2MxLi5hYWFhYWFhYWYzajZqbWc0M2x5ZmNqaGVnc3h4dGZpam1pc2dxaG41N2syNHRjNmV3aXpzazZvbHQyMmFcIl0iLCJjYWxsX3N2YyI6Im9yY2hlc3RyYXRpb24iLCJ0Z3RzIjoiW1wiYWxsX3N2Y1wiXSIsIm1mYV92ZXJpZmllZCI6InRydWUiLCJvd24iOiJvY2lkMS50ZW5hbmN5Lm9jMS4uYWFhYWFhYWFxbnBjcGZxZm1yZjZkdzVnY2V3N3lxcGlydmFydWVpcmoybXY0anpuNXZramdvZWpzeG1hIiwiaXNzIjoiYXV0aFNlcnZpY2Uub3JhY2xlLmNvbSIsInB0eXBlIjoidXNlciIsInRndF9uYW1lcyI6IltcImFsbF9zdmNcIl0iLCJkZWxlZ2F0aW5nU2VydmljZSI6Im9yY2hlc3RyYXRpb24iLCJhdWQiOiJvY2kiLCJwc3R5cGUiOiJuYXR2IiwidHR5cGUiOiJkZWwiLCJleHAiOjE3NDYxNDU1NTYsImlhdCI6MTc0NjA1OTE1Niwib2JvX3R5cGUiOiJzZXJ2aWNlIiwianRpIjoiZTBkNzhhZWYtYjQ3MC00NjFkLTg0NTEtZDVmZjUzN2FjYmZkIiwidGVuYW50Ijoib2NpZDEudGVuYW5jeS5vYzEuLmFhYWFhYWFhNGNuZDV3d2wzcm9heDc1Zm5nYnhybzV2MnN1Nzdja3NhYWwzbXdueXdmbXI1NnRtdmcyYSIsIm5hbWUtY2hhaW4iOiIifQ.F6aQQNCO-_8wyAM_1JAUwuZtJnvPGHBXKGL-6CLRlHbSKF7TFxNWye2Rbd0s-4-PZemT4qkDMfeUYkfQlwt7NRJ6wFxZzU737N0ataSSeSc8kOUnNm1Y750a8CcPcubR_5--rzYaIlbAedWi-OHMxtn5m_eWEwbeus6FtrG4Eo1bSXV0dqfwmO5cnc8oMAASwbu6UjE2j9ftTAKhjaU3jUIkIaPbd4NBJS73pBxIx3ApLYLvV-1gZeKzszPswjIC6G_8zsdwLpucVYNevkfFVGoGC0VF_pt_z5LlZnLrObdoE8dc9Z_KCb5a4omL7906MDC1DgcXmWfUqOk5-vDgIQ"
+        ],
+        "Opc-Request-Id": [
+          "b436b38bb0cb7fcbbca4bf733e5a6832"
+        ],
+        "Opc-Retry-Token": [
+          "vCOyFO4F8aalBstb9NFwTPde6oYEJOF6"
+        ],
+        "User-Agent": [
+          "Oracle-GoSDK/65.89.1 (go/go1.21.13; linux/arm64; terraform/2.34.0; terraform-cli/1.5.7) ORMTerraformer/6.35.0"
+        ],
+        "X-Content-Sha256": [
+          "CKlYgYZv7msgb1989U6mD+q5eqU14oWvvQjrWLLvi9E="
+        ]
+      },
+      "id": "b436b38bb0cb7fcbbca4bf733e5a6832/A51A5FC3BD232D618EE72B18C6CC43F5/1186D284FA96565938D560F47D3ABEA6",
+      "parameters": {},
+      "path": "/20160918/securityLists"
+    },
+    "resourceId": "ocid1.securitylist.oc1.iad.aaaaaaaaaf66re24vzsy7agvg3zeosq7tzf4jbb6nxxdt4sl4kjyb4bhrjvq",
+    "response": {
+      "headers": {
+        "Connection": [
+          "keep-alive"
+        ],
+        "Content-Length": [
+          "1609"
+        ],
+        "Content-Type": [
+          "application/json"
+        ],
+        "Date": [
+          "Thu, 01 May 2025 00:26:44 GMT"
+        ],
+        "ETag": [
+          "2bf9e496"
+        ],
+        "Strict-Transport-Security": [
+          "max-age=31536000; includeSubDomains;"
+        ],
+        "X-Content-Type-Options": [
+          "nosniff"
+        ],
+        "opc-request-id": [
+          "b436b38bb0cb7fcbbca4bf733e5a6832/A51A5FC3BD232D618EE72B18C6CC43F5/1186D284FA96565938D560F47D3ABEA6"
+        ]
+      },
+      "message": null,
+      "payload": {},
+      "responseTime": "2025-05-01T00:26:44.681Z",
+      "status": "200"
+    },
+    "stateChange": {
+      "current": {
+        "compartmentId": "ocid1.compartment.oc1..aaaaaaaagsx7t4jz33q2ji63chrhqy2gbj6ff62fq6gkyyo4uu4eycuenjaa",
+        "definedTags": {
+          "Oracle-Tags": {
+            "CreatedBy": "default/matthew.ho@newfold.com",
+            "CreatedOn": "2025-05-01T00:26:44.541Z"
+          }
+        },
+        "displayName": "observability-k8s-security-list",
+        "egressSecurityRules": [
+          {
+            "destination": "0.0.0.0/0",
+            "destinationType": "CIDR_BLOCK",
+            "isStateless": false,
+            "protocol": "all"
+          }
+        ],
+        "freeformTags": {},
+        "id": "ocid1.securitylist.oc1.iad.aaaaaaaaaf66re24vzsy7agvg3zeosq7tzf4jbb6nxxdt4sl4kjyb4bhrjvq",
+        "ingressSecurityRules": [
+          {
+            "icmpOptions": {
+              "code": 4,
+              "type": 3
+            },
+            "isStateless": false,
+            "protocol": "1",
+            "source": "0.0.0.0/0",
+            "sourceType": "CIDR_BLOCK"
+          },
+          {
+            "isStateless": false,
+            "protocol": "6",
+            "source": "10.23.21.0/24",
+            "sourceType": "CIDR_BLOCK",
+            "tcpOptions": {
+              "destinationPortRange": {
+                "max": 6443,
+                "min": 6443
+              }
+            }
+          },
+          {
+            "isStateless": false,
+            "protocol": "6",
+            "source": "10.23.21.0/24",
+            "sourceType": "CIDR_BLOCK",
+            "tcpOptions": {
+              "destinationPortRange": {
+                "max": 22,
+                "min": 22
+              }
+            }
+          },
+          {
+            "icmpOptions": {
+              "type": 3
+            },
+            "isStateless": false,
+            "protocol": "1",
+            "source": "10.23.21.0/24",
+            "sourceType": "CIDR_BLOCK"
+          }
+        ],
+        "lifecycleState": "AVAILABLE",
+        "timeCreated": "2025-05-01T00:26:44.585Z",
+        "vcnId": "ocid1.vcn.oc1.iad.amaaaaaa6sanknaa3mehjsubjdncdtppiuhaaobmppzxo5igvft4dmcf2dlq"
+      },
+      "previous": {}
+    }
+  },
+  "dataschema": "2.0",
+  "id": "3510163c-de53-45b7-93f1-7629bffb5ff9",
+  "oracle": {
+    "compartmentid": "ocid1.compartment.oc1..aaaaaaaagsx7t4jz33q2ji63chrhqy2gbj6ff62fq6gkyyo4uu4eycuenjaa",
+    "ingestedtime": "2025-05-01T00:26:48.869Z",
+    "loggroupid": "_Audit",
+    "tenantid": "ocid1.tenancy.oc1..aaaaaaaa4cnd5wwl3roax75fngbxro5v2su77cksaal3mwnywfmr56tmvg2a"
+  },
+  "source": "observability-k8s-security-list",
+  "specversion": "1.0",
+  "time": "2025-05-01T00:26:44.681Z",
+  "type": "com.oraclecloud.virtualNetwork.CreateSecurityList"
+}
