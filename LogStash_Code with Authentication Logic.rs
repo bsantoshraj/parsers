@@ -537,7 +537,11 @@ if [data][idprimitive][principalName] != "" {
   
 #objectstorage
   if [service] == "objectstorage" {
-   if [verb] == "Get" or [verb] == "List" {
+   if [verb] == "get" {
+      mutate {
+         replace => { "metadata.event_type" => "RESOURCE_READ" }}
+      }
+   } else if [verb] == "list" {
       mutate {
          replace => { "metadata.event_type" => "RESOURCE_READ" }}
       }
@@ -545,9 +549,13 @@ if [data][idprimitive][principalName] != "" {
    else if [service] == "objectstorage" and  [verb] == "put" {
       mutate {
          replace => { "metadata.event_type" => "RESOURCE_WRITE"
+         }
       }
-   }
-  } else if [service] == "objectstorage" and [verb] == "Create" {
+   } else if [service] == "objectstorage" and [verb] == "post" { 
+      mutate {
+         replace => { "metadata.event_type" => "RESOURCE_MODIFY" }
+      }
+   }  else if [service] == "objectstorage" and [verb] == "Create" {
        mutate {
            replace => {"metadata.event_type" => "RESOURCE_CREATE" }
        }
@@ -559,7 +567,19 @@ if [data][idprimitive][principalName] != "" {
        mutate {
           replace  => { "metadata.event_type" => "RESOURCE_OPERATION"}
        }
-   }
+   } else if [service] == "objectstorage" and [verb] == "delete" {
+       mutate {
+          replace => {"objectstorage" => "RESOURCE_DELETION"}
+       }
+   } else if [service] == "objectstorage" and "verb" == "update"]  {
+       mutate {
+          replace  => { "metadata.event_type" => "RESOURCE_UPDATE" }
+       }
+   } else {
+       mutate {
+          replace => { "metadata.event_type" => "GENERIC_EVENT" }}
+      }
+   } 
  
    
    #natgateway
@@ -616,7 +636,7 @@ if [data][idprimitive][principalName] != "" {
     if [service] == "computeApi" {
    if [verb] == "Attach" {
        mutate {
-          replace => { "[event][metadata][event_type]" => "RESOURCE_OPERATION" }
+          replace => { "metadata.event_type" => "RESOURCE_OPERATION" }
        }
     }
       else if [verb] == "Get"  {
